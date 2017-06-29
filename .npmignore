@@ -9,24 +9,5 @@
 /.settings
 /.travis.yml
 /.vscode
-/Apps
-/Build/minifyShaders.state
-/Build/Stubs
-/Build/Documentation
-/Cesium-*.zip
-/Documentation
-/favicon.ico
-/gulpfile.js
-/index.html
-/index.release.html
-/Instrumented
-/launches
-/server.js
-/Source/copyrightHeader.js
-/Source/main.js
-/Specs
-/ThirdParty
-/Tools
-/web.config
 
 Thumbs.db
